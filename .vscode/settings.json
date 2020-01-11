@@ -1,6 +1,0 @@
-{
-    "python.linting.pylintEnabled": false,
-    "python.linting.enabled": true,
-    "python.linting.mypyEnabled": true,
-    "python.pythonPath": "C:\\Users\\sunmeet\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
-}

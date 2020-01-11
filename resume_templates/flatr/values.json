@@ -1,0 +1,90 @@
+{
+
+    "name": {
+
+        "type": "text",
+        "placeholder": "Name"
+
+    },
+
+    "professional_title": {
+
+        "type": "text",
+        "placeholder": "Professional Title"
+
+    },
+
+    "skills_section": {
+
+        "type": "array",
+        "placeholder": "Skills Section",
+        "fields": {
+
+            "skill": {
+                "type": "text",
+                "placeholder": "Skill Name"
+            },
+            "score": {
+                "type": "text",
+                "placeholder": "Skill Score (1 - 10)"
+            }
+
+        }
+
+    },
+
+    "experience_section": {
+
+        "type": "array",
+        "placeholder": "Experience Section",
+        "fields": {
+            
+            "company": {
+                "type": "text",
+                "placeholder": "Company Name"
+            },
+            "position": {
+                "type": "text",
+                "placeholder": "Position"
+            },
+            "years": {
+                "type": "text",
+                "placeholder": "Years"
+            },
+            "description": {
+                "type": "textbox",
+                "placeholder": "Description"
+            }
+
+        }
+
+    },
+
+    "education_section": {
+
+        "type": "array",
+        "placeholder": "Education Section",
+        "fields": {
+
+            "years": {
+                "type": "text",
+                "placeholder": "Years"
+            },
+            "degree": {
+                "type": "text",
+                "placeholder": "Degree Name"
+            },
+            "university": {
+                "type": "text",
+                "placeholder": "University Name"
+            },
+            "description": {
+                "type": "textbox",
+                "placeholder": "Description"
+            }
+
+        }
+
+    }
+
+}

@@ -1,0 +1,118 @@
+{
+
+    "profile_image": {
+
+        "type": "image",
+        "placeholder": "Profile Image"
+
+    },
+
+    "name": {
+
+        "type": "text",
+        "placeholder": "Name"
+
+    },
+
+    "professional_title": {
+
+        "type": "text",
+        "placeholder": "Professional Title"
+
+    },
+
+    "education_section": {
+
+        "type": "array",
+        "placeholder": "Education Section",
+        "fields": {
+
+            "university": {
+                "type": "text",
+                "placeholder": "University Name"
+            },
+            "degree": {
+                "type": "text",
+                "placeholder": "Degree Name"
+            },
+            "years": {
+                "type": "text",
+                "placeholder": "Years"
+            },
+            "description": {
+                "type": "textbox",
+                "placeholder": "Description"
+            }
+
+        }
+
+    },
+
+    "skill_section": {
+
+        "type": "array",
+        "placeholder": "Skill Section",
+        "fields": {
+
+            "skill": {
+                "type": "text",
+                "placeholder": "Skill Name"
+            },
+            "percent": {
+                "type": "text",
+                "placeholder": "Skill Percentage"
+            }
+
+        }
+
+    },
+
+    "employment_section": {
+
+        "type": "array",
+        "placeholder": "Employment Section",
+        "fields": {
+
+            "company": {
+                "type": "text",
+                "placeholder": "Company Name"
+            },
+            "position": {
+                "type": "text",
+                "placeholder": "Position"
+            },
+            "years": {
+                "type": "text",
+                "placeholder": "Years"
+            },
+            "description": {
+                "type": "textbox",
+                "placeholder": "Description"
+            }
+
+        }
+
+    },
+
+    "certificate_section": {
+        "type": "array",
+        "placeholder": "Certificate Section",
+        "fields": {
+
+            "certificate": {
+                "type": "text",
+                "placeholder": "Certificate Name"
+            },
+            "years": {
+                "type": "text",
+                "placeholder": "Years"
+            },
+            "description": {
+                "type": "textbox",
+                "placeholder": "Description"
+            }
+
+        }
+    }
+
+}
